@@ -3,5 +3,4 @@
 - 🔭 I’m currently working on Machine Learning Project.
 - 🌱 I’m currently learning best practices for ML and Python.
 - 👯 I’m looking to collaborate on any  ML Projects or Web Development Projects.
-- 📫 How to reach me: 
-     My LinkedIn Profile link-https://www.linkedin.com/in/mounika-maradana-06363020a/
+- 📫 My LinkedIn Profile link-https://www.linkedin.com/in/mounika-maradana-06363020a/
