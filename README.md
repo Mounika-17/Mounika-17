@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mounika Maradana,a third-year Undergraduate,pursuing BTECH in Computer Science and Engineering from GITAM UNIVERSITY,Visakhapatnam
+### Hi there 👋 I am Mounika Maradana,a fourth-year Undergraduate,pursuing BTECH in Computer Science and Engineering from GITAM UNIVERSITY,Visakhapatnam
 
 - 🔭 I’m currently working on Machine Learning Project.
 - 🌱 I’m currently learning best practices for ML and Python.
